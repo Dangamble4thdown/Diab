@@ -1,2 +1,0 @@
-# Diab
-Fantasy football league
